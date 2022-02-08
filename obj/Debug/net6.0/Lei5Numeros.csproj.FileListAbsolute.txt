@@ -1,0 +1,15 @@
+C:\GFT-Desfio\Lei5Numeros\bin\Debug\net6.0\Lei5Numeros.exe
+C:\GFT-Desfio\Lei5Numeros\bin\Debug\net6.0\Lei5Numeros.deps.json
+C:\GFT-Desfio\Lei5Numeros\bin\Debug\net6.0\Lei5Numeros.runtimeconfig.json
+C:\GFT-Desfio\Lei5Numeros\bin\Debug\net6.0\Lei5Numeros.dll
+C:\GFT-Desfio\Lei5Numeros\bin\Debug\net6.0\ref\Lei5Numeros.dll
+C:\GFT-Desfio\Lei5Numeros\bin\Debug\net6.0\Lei5Numeros.pdb
+C:\GFT-Desfio\Lei5Numeros\obj\Debug\net6.0\Lei5Numeros.csproj.AssemblyReference.cache
+C:\GFT-Desfio\Lei5Numeros\obj\Debug\net6.0\Lei5Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\GFT-Desfio\Lei5Numeros\obj\Debug\net6.0\Lei5Numeros.AssemblyInfoInputs.cache
+C:\GFT-Desfio\Lei5Numeros\obj\Debug\net6.0\Lei5Numeros.AssemblyInfo.cs
+C:\GFT-Desfio\Lei5Numeros\obj\Debug\net6.0\Lei5Numeros.csproj.CoreCompileInputs.cache
+C:\GFT-Desfio\Lei5Numeros\obj\Debug\net6.0\Lei5Numeros.dll
+C:\GFT-Desfio\Lei5Numeros\obj\Debug\net6.0\ref\Lei5Numeros.dll
+C:\GFT-Desfio\Lei5Numeros\obj\Debug\net6.0\Lei5Numeros.pdb
+C:\GFT-Desfio\Lei5Numeros\obj\Debug\net6.0\Lei5Numeros.genruntimeconfig.cache
